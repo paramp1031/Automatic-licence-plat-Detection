@@ -1,1 +1,1 @@
-# Automatic-licence-plat-Detection
+# Automatic-licence-plate-Detection
